@@ -25,7 +25,6 @@
 * @since Izz0wareAdvanced2017 1.0
 */
 include('class-qwall-notice.php');
-include('customizer-controls/class-note-custom-control.php');
 
 class izz0_advanced_2017 {
     /**
