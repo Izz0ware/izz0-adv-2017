@@ -274,7 +274,7 @@ class izz0_advanced_2017
     }
 
     public static function is_izz0ware_theme() {
-        return ( get_stylesheet() == 'twentyseventeen-izz0' );
+        return ( get_stylesheet() == 'izz0ware-2017' );
     }
 
     public static function add_scripts() {
